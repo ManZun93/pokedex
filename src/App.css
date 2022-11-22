@@ -386,12 +386,9 @@ margin: 0;
 .card .back {
   transform: perspective(600px) rotatey(180deg);
   box-shadow: 0 5px 10px #000;
-  padding: 40px;
+  padding: 5px 40px 5px 40px;
   color: #013058;
   -webkit-text-stroke: 1px #f4b312;
-
- 
-
 
 }
 
