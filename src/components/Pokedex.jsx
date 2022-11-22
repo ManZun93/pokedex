@@ -68,7 +68,7 @@ const filterType = (e)=>{
     <div className='pokedex-container'>
       <div className='header-container'>
         <div className='welcome-message'>
-          <h1>welcome {userName} !</h1>
+          <h1>welcome  <br /> {userName} !</h1>
           <h3> Search and choose your favorite pokemons</h3>
         </div>
         <div className='search-section'>

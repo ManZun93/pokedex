@@ -33,7 +33,7 @@ function App() {
         </Route>
 
       </Routes>
-      <footer> hecho en academlo con ❤ by manuel lufan</footer>
+      <footer> hecho en academlo con ❤  <br /> by manuel lufan</footer>
     </HashRouter>
   )
 }
