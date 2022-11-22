@@ -201,7 +201,7 @@ padding-bottom: 20px;
 
 @media (max-width: 600px) {
   .search-section {
-    width: 85%;
+    width: 90%;
     flex-direction: column;
     margin: auto;
     padding: 20px;
