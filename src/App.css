@@ -489,7 +489,7 @@ right: 0;
   .pagination-list {
     width: 70%;
     margin: 0 auto;
-    height: 150px;
+    height: fit-content;
     
     
   }
