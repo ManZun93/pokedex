@@ -151,7 +151,7 @@ padding-bottom: 20px;
   background-position: bottom;
   -webkit-text-stroke: 0.5px #ebebee;
   color: #000000;
-  font-size: xx-large;
+  font-size: x-large;
 }
 @media (max-width: 600px) {
   .welcome-message {
@@ -180,7 +180,7 @@ padding-bottom: 20px;
 
 @media (max-width: 600px) {
   .welcome-message h1 {
-   font-size: 225px;
+   font-size: 25px;
    padding: 0;
     
   }
