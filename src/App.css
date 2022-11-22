@@ -153,6 +153,11 @@ padding-bottom: 20px;
   color: #000000;
   font-size: xx-large;
 }
+@media (max-width: 600px) {
+  .welcome-message {
+    font-size: large;
+  }
+}
 
 
 .welcome-message h1, h3{
@@ -607,12 +612,16 @@ right: 0;
 
 @media (max-width: 600px) {
   .moves-aside {
-    width: 30%;
-    right: 5%;
-    top: 40%;
+    width: 40%;
+    right: 8%;
+    top: 37%;
     
-    
-    
+  }
+}
+
+@media (max-width: 600px) {
+  .moves-aside p {
+    font-size: large;
     
   }
 }
@@ -763,7 +772,7 @@ right: 0;
 
 @media (max-width: 600px) {
   .character-name h2{
-    font-size: x-large;
+    font-size: 20px;
     margin: auto;
  
   }
