@@ -799,7 +799,7 @@ right: 0;
 
 @media (max-width: 600px) {
   .type-abilities {
-   
+   width: 100%;
    display: flex;
    flex-direction: column;
    gap: 10px;
@@ -818,8 +818,6 @@ right: 0;
   text-shadow: 3px 1px 8px rgba(0, 0, 0, 0.973);
   color:#fad400;
   -webkit-text-stroke: 0.5px #000000;
-  
- 
 
 }
 
@@ -836,7 +834,6 @@ right: 0;
  justify-content: space-between;
  align-items: center;
  gap: 10px;
-  
 }
 
 .atribute-element{
