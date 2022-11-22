@@ -75,7 +75,7 @@ const filterType = (e)=>{
             <input 
               className='pokemon-writed'
               type="text" 
-              placeholder='search pokemon'
+              placeholder='search pokemon by name'
               value={pokemonName}
               onChange = {(e) => setPokemonName(e.target.value)}
             />
