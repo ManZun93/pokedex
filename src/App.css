@@ -615,7 +615,7 @@ right: 0;
   .moves-aside {
     width: 40%;
     right: 8%;
-    top: 37%;
+    top: 36%;
     
   }
 }
@@ -629,7 +629,7 @@ right: 0;
 
 @media (max-width: 600px) {
   .moves-list {
-   height: 270px;
+   height: 260px;
    
     
   }
@@ -842,7 +842,7 @@ right: 0;
 }
 
 .atribute-element{
-  padding: 15px 5px;
+  padding: 15px 2px;
   background: #14c9f63d;
   width: 100%;
   margin: auto;
